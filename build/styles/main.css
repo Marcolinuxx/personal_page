@@ -29,7 +29,7 @@ li {
 }
 @media (max-width: 767px) {
   .container {
-    max-width: 70%;
+    max-width: 80%;
   }
 }
 header {
